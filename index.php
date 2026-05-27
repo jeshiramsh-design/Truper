@@ -78,7 +78,7 @@
             margin-bottom: 30px;
         }
 
-        /* Sección Misión y Visión (Tarjetas Elegantes) */
+        /* Sección papu Misión y Visión (Tarjetas Elegantes) */
         .container {
             max-width: 1200px;
             margin: 0 auto;
