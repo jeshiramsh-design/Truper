@@ -187,7 +187,7 @@
     </main>
 
     <section class="cta-section">
-        <h4>¿Eres miembro del equipo administrativo u operativo?</h4>
+        <h4>¿Eress miembro del equipo administrativo u operativo?</h4>
         <a href="login.php" class="btn-cta">Ingresar al Panel de Control</a>
     </section>
 
