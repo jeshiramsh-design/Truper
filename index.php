@@ -192,7 +192,7 @@
     </section>
 
     <footer>
-        Taller de Sistemas Operativos • Instituto Tecnológico de Oaxaca • Equipo 8 Jesus Hiram Hernandez Sanchez Braulio Mendoza Vargas © 2026
+        Taller de Sistemas Operativos • Instituto Tecnológico de Oaxaca • Equipo 8  © 2026
     </footer>
 
 </body>
