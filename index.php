@@ -164,7 +164,7 @@
 
     <section class="hero">
         <h2>Herramientas con Fuerza Corporativa</h2>
-        <p>Líderes en la fabricación y comercialización de herramientas para todas las industrias de América Latina.</p>
+        <p>Líderes en la fabricación y comercialización de herramientass para todas las industrias de América Latina.</p>
     </section>
 
     <main class="container">
@@ -192,7 +192,7 @@
     </section>
 
     <footer>
-        Taller de Sistemas Operativos • Instituto Tecnológico de Oaxaca • Equipo 8 © 2026
+        Taller de Sistemas Operativos • Instituto Tecnológico de Oaxaca • Equipo 8 Jesus Hiram Hernandez Sanchez Braulio Mendoza Vargas © 2026
     </footer>
 
 </body>
