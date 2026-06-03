@@ -163,7 +163,7 @@
     </header>
 
     <section class="hero">
-        <h2>Herramientas con Fuerza Corporativa</h2>
+        <h2>Tercera Oportunidad 4SC JHHS</h2>
         <p>Líderes en la fabricación y comercialización de herramientas para todas las industrias de América Latina.</p>
     </section>
 
